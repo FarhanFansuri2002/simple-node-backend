@@ -1,0 +1,14 @@
+{
+  "name": "simple-node-backend",
+  "version": "1.0.0",
+  "description": "Simple Node.js backend starter project",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo \"No build step required\"",
+    "dev": "netlify dev"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
